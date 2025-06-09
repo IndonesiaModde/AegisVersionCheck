@@ -1,0 +1,15 @@
+{
+  "libName": "libil2cpp.so",
+  "offsets": {
+    "Update_PlayerControl": "0x9ADA8C",
+    "Update_GameManager": "0x95EC80",
+    "get_GameManagerInstance": "0x95ABF4",
+    "WorldToScreenPoint": "0x2030C0C",
+    "Transform_get_forward": "0x2069F80",
+    "Transform_INTERNAL_GetPosition": "0x20696D4",
+    "Component_GetTransform": "0x205B81C",
+    "get_main": "0x2030F00",
+    "Screen_get_width": "0x203A9A8",
+    "Screen_get_height": "0x203A9E8"
+  }
+}
